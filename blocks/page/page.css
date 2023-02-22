@@ -1,0 +1,8 @@
+.page {
+    display: flex;
+    justify-content: center;
+    background: #2A2C2F;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    text-align: center;
+}

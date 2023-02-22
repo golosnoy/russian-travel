@@ -1,0 +1,21 @@
+.place__paragraph {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 163%;
+    text-align: left;
+    margin: 0 48px 26px 0;
+}
+
+
+@media screen and (max-width: 768px) {
+    .place__paragraph {
+        font-size: 16px;
+        margin: 0 24px 26px 0;
+    }
+  }
+
+  @media screen and (max-width: 420px) {
+    .place__paragraph {
+        margin: 0 16px 26px 16px;
+    }
+  }

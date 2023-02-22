@@ -1,0 +1,11 @@
+.place__url-heading {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-bottom: 12px;
+}
+
+@media screen and (max-width: 420px) {
+    .place__url-heading {
+      margin-left: 16px;
+    }
+  }
