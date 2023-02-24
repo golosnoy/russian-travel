@@ -9,8 +9,8 @@
     margin-left: 18px;
 }
 
-.header__lang-link:current {
-    text-decoration: underline;
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {

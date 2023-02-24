@@ -4,13 +4,14 @@
     line-height: 22px;
     text-align: left;
     color: #FFFFFF;
+    padding-top: 6px;
 }
 
 .place__link:hover {
   opacity: 0.8;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 480px) {
     .place__link {
       margin-left: 16px;
     }
