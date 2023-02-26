@@ -10,6 +10,13 @@
     margin-block-end: 0;
 }
 
+@media screen and (max-width: 928px) {
+  .place__title {
+    font-size: 58px;
+    line-height: 106%;
+  }
+}
+
   @media screen and (max-width: 768px) {
     .place__title {
       font-size: 42px;
